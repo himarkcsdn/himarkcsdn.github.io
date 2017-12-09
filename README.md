@@ -1,14 +1,12 @@
-#himark个人微博
+#**himark个人微博**
 
-##世界因你与众不同
+##_世界因你与众不同_
 
 
-- Bulleted 111
-- List  1212
+- 1  我的知乎
+- 2  我的微博
+- 3  我的脸书
 
-1. Numbered
-2. List   12121
+and `Code` text
 
-**Bold** and _Italic_ and `Code` text
-
-[百度](www.baidu.com) and ![Image](src)
+[](www.baidu.com) and ![Image](src)
